@@ -11,3 +11,8 @@
  
 Задание 2.
 
+- Вертикальный шардинг - разбить три таблицы по трем базам              
+![](https://github.com/dAmp1r/Relational-Databases-and-Database-Administration_HW12-07/blob/main/11.png)
+
+- Горизонтальный шардинг - логически взять более нагруженную таблицу и поделить ее на 2 базы ( к примеру пользователи ) а 2 менее нагруженный пусть остануться на 3 базе                                 
+![](https://github.com/dAmp1r/Relational-Databases-and-Database-Administration_HW12-07/blob/main/22.png)
